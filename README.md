@@ -68,3 +68,6 @@ Through this project, I gained practical experience in implementing programming 
 **Completed ✅**
 
 This project is created for learning, practice, and demonstrating basic programming skills.
+## 📸 Output
+
+![Hangman Game Output](hagman.png)
